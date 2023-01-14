@@ -1,1 +1,1 @@
-# @polkagate-extension-developer-version WIP
+# @polkagate-extension-developer-version
